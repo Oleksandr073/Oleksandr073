@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi there 👋, I'm Oleksandr
 
-<!--
-**Oleksandr073/Oleksandr073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+<br>
 
-Here are some ideas to get you started:
+### 📚 Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg" />
+
+<br>
+<br>
+
+### 💻 Repositories
+
+<a href="https://github.com/Oleksandr073/Shopno-landing-page">
+  <img align="center" alt="Shopno landing page" src="https://github-readme-stats.vercel.app/api/pin/?username=Oleksandr073&repo=Shopno-landing-page" />
+</a>
+<a href="https://github.com/Oleksandr073/Agency-landing-page">
+  <img align="center" alt="Agency landing page" src="https://github-readme-stats.vercel.app/api/pin/?username=Oleksandr073&repo=Agency-landing-page" />
+</a>
+
+<br>
+
+### 💡 Codewars profile
+
+[![codewars](https://www.codewars.com/users/Oleksandr073/badges/large)](https://www.codewars.com/users/Oleksandr073)
+
+### ⚡ Statistics
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandr073)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Oleksandr073)
