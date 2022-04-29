@@ -32,4 +32,4 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandr073)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Oleksandr073)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Oleksandr073) -->
