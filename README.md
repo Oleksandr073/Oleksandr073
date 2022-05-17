@@ -30,7 +30,7 @@ ___
 
 ### ⚡ Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandr073&layout=compact)](https://github.com/Oleksandr073/github-readme-stats)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandr073) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandr073&layout=compact)](https://github.com/Oleksandr073/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oleksandr073)
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Oleksandr073) -->
