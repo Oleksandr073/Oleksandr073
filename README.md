@@ -16,11 +16,11 @@ ___
 
 ### 💻 Repositories
 
-<a href="https://github.com/Oleksandr073/Shopno-landing-page">
-  <img align="center" alt="Shopno landing page" src="https://github-readme-stats.vercel.app/api/pin/?username=Oleksandr073&repo=Shopno-landing-page" />
+<a href="https://github.com/Oleksandr073/Waxom-landing-page">
+  <img align="center" alt="Waxom landing page" src="https://github-readme-stats.vercel.app/api/pin/?username=Oleksandr073&repo=Waxom-landing-page" />
 </a>
-<a href="https://github.com/Oleksandr073/Agency-landing-page">
-  <img align="center" alt="Agency landing page" src="https://github-readme-stats.vercel.app/api/pin/?username=Oleksandr073&repo=Agency-landing-page" />
+<a href="https://github.com/Oleksandr073/Whirl-landing-page">
+  <img align="center" alt="Whirl landing page" src="https://github-readme-stats.vercel.app/api/pin/?username=Oleksandr073&repo=Whirl-landing-page" />
 </a>
 
 <br>
